@@ -7,9 +7,9 @@ Daftar program:
 - editor.py: menggambar kumpulan bidang 2D dan menyimpannya kedalam file XML
 
 Daftar file XML:
-- basic.xml
-- kotak.xml
-- drawKotak.xml
-- flowerandbg.xml
-- dict2xml.xml
-- flag.xml
+- basic.xml: penjelasan struktur dasar file XML
+- kotak.xml: penjelasan struktur dasar file XML
+- drawKotak.xml: berisi daftar perintah cara menggambar kotak
+- flowerandbg.xml: berisi daftar perintah cara menggambar bunga&background (Buku, example 4.7)
+- dict2xml.xml: penjelasan cara kerja modul xmltodict
+- flag.xml: berisi daftar komposisi bendera
