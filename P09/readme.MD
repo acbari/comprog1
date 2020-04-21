@@ -5,6 +5,7 @@ Daftar program:
 - readbackXML.py: contoh penggunaan modul xmltodict
 - flagViewer.py: menampilkan bendera yang tersimpan di file XML, menggunakan modul turtle dan xmltodict (external)
 - editor.py: menggambar kumpulan bidang 2D dan menyimpannya kedalam file XML
+- writereadJSON.py: konversi tipe data dictionary ke dan dari file json
 
 Daftar file XML:
 - basic.xml: penjelasan struktur dasar file XML
