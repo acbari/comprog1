@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GraphicsCommands>
+<Indonesia />
+<Command x="-150" y="10" width="120" height="80" color="#ffffff"> Rect </Command> 
+<Command x="-150" y="50" width="120" height="40" color="#ff0000"> Rect </Command> 
+<Japan />
+<Command x="10" y="10" width="120" height="80" color="#ffffff"> Rect </Command> 
+<Command x="70" y="20" radius="30" color="#ff0000"> Circle </Command> 
+<France />
+<Command x="-150" y="100" width="120" height="80" color="#ffffff"> Rect </Command> 
+<Command x="-150" y="100" width="40" height="80" color="#0000ff"> Rect </Command> 
+<Command x="-70" y="100" width="40" height="80" color="#ff0000"> Rect </Command> 
+<Italy />
+<Command x="10" y="100" width="120" height="80" color="#ffffff"> Rect </Command> 
+<Command x="10" y="100" width="40" height="80" color="#009900"> Rect </Command> 
+<Command x="90" y="100" width="40" height="80" color="#ff0000"> Rect </Command> 
+</GraphicsCommands>
+
+

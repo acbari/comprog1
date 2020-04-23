@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<GraphicsCommands>
+    <Command x="0" y="0" width="1.0" color="red"> GoTo </Command>
+    <Command > PenDown </Command>
+    <Command x="100" y="0" width="1.0" color="red"> GoTo </Command>
+    <Command x="100" y="100" width="1.0" color="red"> GoTo </Command>
+    <Command x="0" y="100" width="1.0" color="red"> GoTo </Command>
+    <Command x="0" y="0" width="1.0" color="red"> GoTo </Command>
+    <Command > PenUp </Command>
+</GraphicsCommands>
+
+
