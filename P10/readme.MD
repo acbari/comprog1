@@ -8,3 +8,6 @@ Aplikasi berbasis GUI
   - Menu
   - Frame & Layout
   - Canvas (Turtle)
+    - Keyboard
+    - Mouse
+    - Timer
